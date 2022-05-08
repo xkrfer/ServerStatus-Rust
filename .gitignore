@@ -23,3 +23,8 @@ stats.json
 tmp
 .prod
 sync.sh
+/.idea/.gitignore
+/.idea/git_toolbox_prj.xml
+/.idea/modules.xml
+/.idea/ServerStatus-Rust.iml
+/.idea/vcs.xml
